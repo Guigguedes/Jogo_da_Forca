@@ -1,3 +1,4 @@
+#Feito por Guilherme Guedes e Stefano Mossi
 import os
 import sys
 from functions import limpaTela, menuEscolhas, jogar, escolhaPalavra, jogo, indicaPalavra, erros, derrota, vitoria, historico, restart
